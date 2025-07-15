@@ -1,4 +1,4 @@
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0873e387-3966-4aac-bc7b-6ce3474eedff" />
+<img width="1280" height="720" alt="image" src=".img/Screenshot_1.png" />
 
 # 🛡️ Advanced Cybersecurity CTF — KNU x Google x SoftServe
 
